@@ -21,7 +21,7 @@ var uniVerse = Console.ReadLine();
 Console.WriteLine("Thank you. Please identify one object in your immediate surroundings.");
 var weaponChoice = Console.ReadLine();
 
-Console.WriteLine($"A {weaponChoice}...interesting. Please identify a person/place/thing of fear (no places).");
+Console.WriteLine($"A {weaponChoice}...interesting. Please identify a person/animal/thing of fear (no places).");
 var userFear = Console.ReadLine();
 
 Console.WriteLine("You may regret that. Tell me. What is the ultimate refreshment?");
