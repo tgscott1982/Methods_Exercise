@@ -50,7 +50,7 @@ Console.WriteLine(subResult);
 Console.WriteLine(divResult);
 Console.WriteLine(multResult);
 
-//Challenge Exercise
+//Challenge Exercise - reminder, comment out Exercise 1 region before running this section
 
 int sumArray = Methods.Sum(3, 5, 42, 939, 285, 2340);
 
